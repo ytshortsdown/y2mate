@@ -14,7 +14,7 @@ body {
 
 /* Header styles */
 header {
-    background-color: #d44418;
+    background-color: #ff454e;
     color: white;
     padding: 15px 0;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
@@ -90,10 +90,10 @@ nav ul li a:hover {
 
 .content h2 {
     margin-top: 20px;
-    color: #f02b1d;
+    color: #ff454e;
 }
 h3{
-     color: #c92317;
+     color: #ff454e;
      font-size: 20px;
 }
 
